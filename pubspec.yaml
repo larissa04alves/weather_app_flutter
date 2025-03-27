@@ -36,8 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   dio: ^5.8.0+1
   flutter_riverpod: ^2.6.1
-  jiffy: ^6.3.2
-  geolocator: ^13.0.2
+  jiffy: ^6.4.2
+  geolocator: ^13.0.3
 
 dev_dependencies:
   flutter_test:
