@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:weather_app_flutter/models/weather.dart';
 import 'package:weather_app_flutter/providers/current_weather_provider.dart';
 import 'package:weather_app_flutter/views/gradient_container.dart';
 
